@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Dataset files (avoid large uploads)
+data/raw/
+data/processed/
+
+# Large model files (keep only final model)
+*.pkl
+!models/best_model.pkl
+!models/tfidf_vectorizer.pkl
+
+# Temporary files
+*.tmp
