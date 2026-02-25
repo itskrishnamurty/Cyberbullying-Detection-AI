@@ -1,4 +1,4 @@
-# 📺 STREAMCONNECT LIVE  
+# 📺 LIVE Cyberbullying Detection 
 ### AI-Powered Cyberbullying Detection & Live Moderation System
 
 An intelligent social media moderation system that detects and prevents cyberbullying in real-time using Machine Learning and Natural Language Processing.
